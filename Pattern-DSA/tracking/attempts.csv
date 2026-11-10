@@ -1,1 +1,2 @@
 timestamp,leetcode_id,pattern,title,approach,minutes,time_complexity,space_complexity,runtime_ms,status,notes
+2026-11-10T17:33:09+05:30,56,intervals,Merge Intervals,sweep,30.0,O(n log n),O(n),,SOLVED,Sorting and merging

@@ -58,7 +58,7 @@ leetcode_id,pattern,title,difficulty,status,last_practiced,last_approach,last_ti
 148,linkedlist,Sort List,,TODO,,,,,https://leetcode.com/problems/sort-list/,notes/problems/LC0148.md
 23,linkedlist,Merge k Sorted Lists,,TODO,,,,,https://leetcode.com/problems/merge-k-sorted-lists/,notes/problems/LC0023.md
 146,linkedlist,LRU Cache,,TODO,,,,,https://leetcode.com/problems/lru-cache/,notes/problems/LC0146.md
-56,intervals,Merge Intervals,,TODO,,,,,https://leetcode.com/problems/merge-intervals/,notes/problems/LC0056.md
+56,intervals,Merge Intervals,,SOLVED,2026-11-10,sweep,O(n log n),O(n),https://leetcode.com/problems/merge-intervals/,notes/problems/LC0056.md
 57,intervals,Insert Interval,,TODO,,,,,https://leetcode.com/problems/insert-interval/,notes/problems/LC0057.md
 435,intervals,Non-overlapping Intervals,,TODO,,,,,https://leetcode.com/problems/non-overlapping-intervals/,notes/problems/LC0435.md
 252,intervals,Meeting Rooms,,TODO,,,,,https://leetcode.com/problems/meeting-rooms/,notes/problems/LC0252.md
