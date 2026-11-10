@@ -1,0 +1,9 @@
+/target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/settings.json
+.DS_Store
+__pycache__/
+.pytest_cache/

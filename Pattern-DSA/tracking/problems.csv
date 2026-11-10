@@ -1,0 +1,74 @@
+leetcode_id,pattern,title,difficulty,status,last_practiced,last_approach,last_time_complexity,last_space_complexity,url,notes_file
+1,arrayshashing,Two Sum,,TODO,,,,,https://leetcode.com/problems/two-sum/,notes/problems/LC0001.md
+217,arrayshashing,Contains Duplicate,,TODO,,,,,https://leetcode.com/problems/contains-duplicate/,notes/problems/LC0217.md
+242,arrayshashing,Valid Anagram,,TODO,,,,,https://leetcode.com/problems/valid-anagram/,notes/problems/LC0242.md
+49,arrayshashing,Group Anagrams,,TODO,,,,,https://leetcode.com/problems/group-anagrams/,notes/problems/LC0049.md
+36,arrayshashing,Valid Sudoku,,TODO,,,,,https://leetcode.com/problems/valid-sudoku/,notes/problems/LC0036.md
+128,arrayshashing,Longest Consecutive Sequence,,TODO,,,,,https://leetcode.com/problems/longest-consecutive-sequence/,notes/problems/LC0128.md
+238,arrayshashing,Product of Array Except Self,,TODO,,,,,https://leetcode.com/problems/product-of-array-except-self/,notes/problems/LC0238.md
+560,arrayshashing,Subarray Sum Equals K,,TODO,,,,,https://leetcode.com/problems/subarray-sum-equals-k/,notes/problems/LC0560.md
+523,arrayshashing,Continuous Subarray Sum,,TODO,,,,,https://leetcode.com/problems/continuous-subarray-sum/,notes/problems/LC0523.md
+442,arrayshashing,Find All Duplicates in an Array,,TODO,,,,,https://leetcode.com/problems/find-all-duplicates-in-an-array/,notes/problems/LC0442.md
+73,arrayshashing,Set Matrix Zeroes,,TODO,,,,,https://leetcode.com/problems/set-matrix-zeroes/,notes/problems/LC0073.md
+54,arrayshashing,Spiral Matrix,,TODO,,,,,https://leetcode.com/problems/spiral-matrix/,notes/problems/LC0054.md
+169,majority,Majority Element,,TODO,,,,,https://leetcode.com/problems/majority-element/,notes/problems/LC0169.md
+229,majority,Majority Element II,,TODO,,,,,https://leetcode.com/problems/majority-element-ii/,notes/problems/LC0229.md
+704,binarysearch,Binary Search,,TODO,,,,,https://leetcode.com/problems/binary-search/,notes/problems/LC0704.md
+74,binarysearch,Search a 2D Matrix,,TODO,,,,,https://leetcode.com/problems/search-a-2d-matrix/,notes/problems/LC0074.md
+875,binarysearch,Koko Eating Bananas,,TODO,,,,,https://leetcode.com/problems/koko-eating-bananas/,notes/problems/LC0875.md
+153,binarysearch,Find Minimum in Rotated Sorted Array,,TODO,,,,,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,notes/problems/LC0153.md
+33,binarysearch,Search in Rotated Sorted Array,,TODO,,,,,https://leetcode.com/problems/search-in-rotated-sorted-array/,notes/problems/LC0033.md
+981,binarysearch,Time Based Key-Value Store,,TODO,,,,,https://leetcode.com/problems/time-based-key-value-store/,notes/problems/LC0981.md
+4,binarysearch,Median of Two Sorted Arrays,,TODO,,,,,https://leetcode.com/problems/median-of-two-sorted-arrays/,notes/problems/LC0004.md
+35,binarysearch,Search Insert Position,,TODO,,,,,https://leetcode.com/problems/search-insert-position/,notes/problems/LC0035.md
+34,binarysearch,Find First and Last Position,,TODO,,,,,https://leetcode.com/problems/find-first-and-last-position/,notes/problems/LC0034.md
+278,binarysearch,First Bad Version,,TODO,,,,,https://leetcode.com/problems/first-bad-version/,notes/problems/LC0278.md
+162,binarysearch,Find Peak Element,,TODO,,,,,https://leetcode.com/problems/find-peak-element/,notes/problems/LC0162.md
+744,binarysearch,Find Smallest Letter Greater Than Target,,TODO,,,,,https://leetcode.com/problems/find-smallest-letter-greater-than-target/,notes/problems/LC0744.md
+643,slidingwindow,Maximum Average Subarray I,,TODO,,,,,https://leetcode.com/problems/maximum-average-subarray-i/,notes/problems/LC0643.md
+209,slidingwindow,Minimum Size Subarray Sum,,TODO,,,,,https://leetcode.com/problems/minimum-size-subarray-sum/,notes/problems/LC0209.md
+3,slidingwindow,Longest Substring Without Repeating Characters,,TODO,,,,,https://leetcode.com/problems/longest-substring-without-repeating-characters/,notes/problems/LC0003.md
+567,slidingwindow,Permutation in String,,TODO,,,,,https://leetcode.com/problems/permutation-in-string/,notes/problems/LC0567.md
+438,slidingwindow,Find All Anagrams in a String,,TODO,,,,,https://leetcode.com/problems/find-all-anagrams-in-a-string/,notes/problems/LC0438.md
+424,slidingwindow,Longest Repeating Character Replacement,,TODO,,,,,https://leetcode.com/problems/longest-repeating-character-replacement/,notes/problems/LC0424.md
+167,twopointers,Two Sum II,,TODO,,,,,https://leetcode.com/problems/two-sum-ii/,notes/problems/LC0167.md
+11,twopointers,Container With Most Water,,TODO,,,,,https://leetcode.com/problems/container-with-most-water/,notes/problems/LC0011.md
+15,twopointers,3Sum,,TODO,,,,,https://leetcode.com/problems/3sum/,notes/problems/LC0015.md
+125,twopointers,Valid Palindrome,,TODO,,,,,https://leetcode.com/problems/valid-palindrome/,notes/problems/LC0125.md
+42,twopointers,Trapping Rain Water,,TODO,,,,,https://leetcode.com/problems/trapping-rain-water/,notes/problems/LC0042.md
+496,stack,Next Greater Element I,,TODO,,,,,https://leetcode.com/problems/next-greater-element-i/,notes/problems/LC0496.md
+20,stack,Valid Parentheses,,TODO,,,,,https://leetcode.com/problems/valid-parentheses/,notes/problems/LC0020.md
+155,stack,Min Stack,,TODO,,,,,https://leetcode.com/problems/min-stack/,notes/problems/LC0155.md
+150,stack,Evaluate Reverse Polish Notation,,TODO,,,,,https://leetcode.com/problems/evaluate-reverse-polish-notation/,notes/problems/LC0150.md
+739,stack,Daily Temperatures,,TODO,,,,,https://leetcode.com/problems/daily-temperatures/,notes/problems/LC0739.md
+84,stack,Largest Rectangle in Histogram,,TODO,,,,,https://leetcode.com/problems/largest-rectangle-in-histogram/,notes/problems/LC0084.md
+206,linkedlist,Reverse Linked List,,TODO,,,,,https://leetcode.com/problems/reverse-linked-list/,notes/problems/LC0206.md
+876,linkedlist,Middle of the Linked List,,TODO,,,,,https://leetcode.com/problems/middle-of-the-linked-list/,notes/problems/LC0876.md
+141,linkedlist,Linked List Cycle,,TODO,,,,,https://leetcode.com/problems/linked-list-cycle/,notes/problems/LC0141.md
+142,linkedlist,Linked List Cycle II,,TODO,,,,,https://leetcode.com/problems/linked-list-cycle-ii/,notes/problems/LC0142.md
+19,linkedlist,Remove Nth Node From End,,TODO,,,,,https://leetcode.com/problems/remove-nth-node-from-end/,notes/problems/LC0019.md
+21,linkedlist,Merge Two Sorted Lists,,TODO,,,,,https://leetcode.com/problems/merge-two-sorted-lists/,notes/problems/LC0021.md
+2,linkedlist,Add Two Numbers,,TODO,,,,,https://leetcode.com/problems/add-two-numbers/,notes/problems/LC0002.md
+234,linkedlist,Palindrome Linked List,,TODO,,,,,https://leetcode.com/problems/palindrome-linked-list/,notes/problems/LC0234.md
+160,linkedlist,Intersection of Two Linked Lists,,TODO,,,,,https://leetcode.com/problems/intersection-of-two-linked-lists/,notes/problems/LC0160.md
+143,linkedlist,Reorder List,,TODO,,,,,https://leetcode.com/problems/reorder-list/,notes/problems/LC0143.md
+24,linkedlist,Swap Nodes in Pairs,,TODO,,,,,https://leetcode.com/problems/swap-nodes-in-pairs/,notes/problems/LC0024.md
+92,linkedlist,Reverse Linked List II,,TODO,,,,,https://leetcode.com/problems/reverse-linked-list-ii/,notes/problems/LC0092.md
+138,linkedlist,Copy List With Random Pointer,,TODO,,,,,https://leetcode.com/problems/copy-list-with-random-pointer/,notes/problems/LC0138.md
+148,linkedlist,Sort List,,TODO,,,,,https://leetcode.com/problems/sort-list/,notes/problems/LC0148.md
+23,linkedlist,Merge k Sorted Lists,,TODO,,,,,https://leetcode.com/problems/merge-k-sorted-lists/,notes/problems/LC0023.md
+146,linkedlist,LRU Cache,,TODO,,,,,https://leetcode.com/problems/lru-cache/,notes/problems/LC0146.md
+56,intervals,Merge Intervals,,TODO,,,,,https://leetcode.com/problems/merge-intervals/,notes/problems/LC0056.md
+57,intervals,Insert Interval,,TODO,,,,,https://leetcode.com/problems/insert-interval/,notes/problems/LC0057.md
+435,intervals,Non-overlapping Intervals,,TODO,,,,,https://leetcode.com/problems/non-overlapping-intervals/,notes/problems/LC0435.md
+252,intervals,Meeting Rooms,,TODO,,,,,https://leetcode.com/problems/meeting-rooms/,notes/problems/LC0252.md
+253,intervals,Meeting Rooms II,,TODO,,,,,https://leetcode.com/problems/meeting-rooms-ii/,notes/problems/LC0253.md
+986,intervals,Interval List Intersections,,TODO,,,,,https://leetcode.com/problems/interval-list-intersections/,notes/problems/LC0986.md
+452,intervals,Minimum Number of Arrows to Burst Balloons,,TODO,,,,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,notes/problems/LC0452.md
+1288,intervals,Remove Covered Intervals,,TODO,,,,,https://leetcode.com/problems/remove-covered-intervals/,notes/problems/LC1288.md
+94,binarytree,Binary Tree Inorder Traversal,,TODO,,,,,https://leetcode.com/problems/binary-tree-inorder-traversal/,notes/problems/LC0094.md
+100,binarytree,Same Tree,,TODO,,,,,https://leetcode.com/problems/same-tree/,notes/problems/LC0100.md
+101,binarytree,Symmetric Tree,,TODO,,,,,https://leetcode.com/problems/symmetric-tree/,notes/problems/LC0101.md
+102,binarytree,Binary Tree Level Order Traversal,,TODO,,,,,https://leetcode.com/problems/binary-tree-level-order-traversal/,notes/problems/LC0102.md
+104,binarytree,Maximum Depth of Binary Tree,,TODO,,,,,https://leetcode.com/problems/maximum-depth-of-binary-tree/,notes/problems/LC0104.md
+226,binarytree,Invert Binary Tree,,TODO,,,,,https://leetcode.com/problems/invert-binary-tree/,notes/problems/LC0226.md
