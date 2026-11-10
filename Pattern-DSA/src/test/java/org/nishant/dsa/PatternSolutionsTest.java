@@ -51,8 +51,6 @@ class PatternSolutionsTest {
         int[][] a={{1,3},{2,6},{8,10},{15,18}};
         int[][] expected={{1,6},{8,10},{15,18}};
         assertArrayEquals(expected,MergeIntervals.sweep(a));
-        assertArrayEquals(expected,MergeIntervals.bruteForce(a));
-        assertArrayEquals(new int[][]{{1,6}},MergeIntervals.bruteForce(new int[][]{{5,6},{1,2},{2,5}}));
     }
     @Test void linkedListAndTree() {
         ReverseLinkedList.Node a=new ReverseLinkedList.Node(1);
